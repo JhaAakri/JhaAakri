@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakriti Jha</h1>
 <img align="right" top="150" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhaaakri&label=Profile%20views&color=0e75b6&style=flat" alt="jhaaakri" /> </p>
-# 💫 About Me:
-🌱 I’m currently learning Mern Stack<br><br>👨‍💻 All of my projects are available at aakritijha.netlify.app<br><br>📫 How to reach me aakritij038@gmail.com<br><br>⚡ Fun fact : I speak three languages: English, Code, and Emoji😉
+💫 About Me:<br>
+🌱 I’m currently learning Mern Stack<br><br>👨‍💻 All of my projects are available at <a href="aakritijha.netlify.app">aakritijha.netlify.app </a><br><br>📫 How to reach me aakritij038@gmail.com<br><br>⚡ Fun fact : I speak three languages: English, Code, and Emoji😉
 
 
 ## 🌐 Socials:
